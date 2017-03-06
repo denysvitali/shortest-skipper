@@ -23,7 +23,7 @@ if skipped.is_a? Shortest::Skipper::Skipper::Result
   puts skipped.destinationUrl
 end
 ```
-I know, Shortest::Skipper::Skipper.skip isn't beautiful, you can rename it if you want
+I know, `Shortest::Skipper::Skipper.skip` isn't beautiful, you can rename it if you want
 
 ## Development
 
